@@ -1,0 +1,15 @@
+Comments template:
+
+/* CONSTRUCTORS */
+
+/* PROPERTIES */
+
+/* SIGNALS */
+
+/* PUBLIC METHODS */
+
+/* SIGNAL HANDLERS */
+
+/* PROTECTED METHODS */
+
+/* PRIVATE METHODS */
